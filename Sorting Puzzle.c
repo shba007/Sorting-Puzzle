@@ -5,15 +5,8 @@
 #include <io.h>
 #include <windows.h>
 
-#ifdef _O_U8TEXT
-#else
 #define _O_U8TEXT 0x00040000
-#endif
-
-#ifdef _O_U16TEXT
-#else
 #define _O_U16TEXT 0x00020000
-#endif
 
 void gotoxy(int x, int y);
 void start();
