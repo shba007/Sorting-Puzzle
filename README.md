@@ -1,3 +1,3 @@
 # Sorting Puzzle
 
-This is a fun number game of Sorting Numbers
+This is a fun puzzle game of Arranging Numbers in a specific order
